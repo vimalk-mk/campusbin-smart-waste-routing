@@ -3,7 +3,7 @@ SOCIOTHON 2026 · IIT Roorkee · Problem Statement 2
 
 Tracks 30 campus bins from real KML survey data, predicts when they fill, and plans truck routes on the OpenStreetMap road network. Flask backend + Leaflet dashboard.
 
-Demo video: _add link here_ · Live app: https://campusbin-smart-waste-routing-1.onrender.com/
+Demo video: https://youtu.be/6Gl_tZEvLVQ · Live app: https://campusbin-smart-waste-routing-1.onrender.com/
 Ppt Link : https://docs.google.com/presentation/d/14lrfeFkeAU8lAyWn-jQPe4YqP8xLsToU/edit?usp=drive_link&ouid=110152007008505439447&rtpof=true&sd=true
 
 ## Project layout
